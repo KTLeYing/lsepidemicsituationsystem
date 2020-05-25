@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="standard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.1.10.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

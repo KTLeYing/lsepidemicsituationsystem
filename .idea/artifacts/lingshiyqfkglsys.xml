@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lingshiyqfkglsys">
+    <output-path>$PROJECT_DIR$/out/artifacts/lingshiyqfkglsys</output-path>
+    <root id="archive" name="lingshiyqfkglsys.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lsepidemicsituationsystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jcommon-1.0.23" />
+          <element id="library" level="project" name="standard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
